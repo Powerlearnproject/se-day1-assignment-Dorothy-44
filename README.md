@@ -1,4 +1,4 @@
-
+.
 *1. What is Software Engineering and Its Importance:*
 
 Software engineering is the systematic application of engineering principles to the design, development, maintenance, testing, and evaluation of software. It aims to produce high-quality software that meets user needs, is reliable, maintainable, and is delivered on time and within budget. Its importance in the technology industry includes:
